@@ -1,7 +1,7 @@
-***Mileage Prediction Regression Analysis***
+# Mileage Prediction Regression Analysis
 This project demonstrates the use of regression techniques to predict vehicle mileage (miles per gallon - MPG) based on various features. The analysis is performed using Python and Jupyter notebooks, leveraging popular data science libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib for data processing, modeling, and visualization.
 
-**Table of Contents**
+# Table of Contents**
 Project Overview
 Dataset
 Project Structure
