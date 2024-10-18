@@ -12,7 +12,6 @@ Results
 The primary goal of this project is to create a machine learning model capable of predicting the mileage of a vehicle based on its specifications. This involves analyzing and preparing the dataset, applying regression techniques, and evaluating the model's performance.
 
 **Dataset**
-
 The dataset used in this analysis contains various vehicle attributes such as:
 
 Cylinders
@@ -29,7 +28,6 @@ Milage Prediction Regression Analysis.ipynb: Jupyter notebook that contains the 
 README.md: Project overview and documentation (this file).
 
 **Models Used**
-
 This project explores various regression models to predict vehicle mileage:
 
 Linear Regression
@@ -40,7 +38,6 @@ The performance of these models is evaluated using standard regression metrics s
 
 
 **Results**
-
 The results from the analysis will vary depending on the specific model used and its parameters. Key results include:
 
 Model performance comparison using metrics like R² score, MSE, and MAE.
